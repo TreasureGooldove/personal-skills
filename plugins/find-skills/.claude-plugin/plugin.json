@@ -1,0 +1,12 @@
+{
+  "name": "find-skills",
+  "version": "1.0.0",
+  "description": "Discover and install agent skills",
+  "author": {
+    "name": "vercel-labs"
+  },
+  "homepage": "https://github.com/vercel-labs/skills",
+  "repository": "https://github.com/TreasureGooldove/personal-skills",
+  "skills": "./skills/",
+  "license": "MIT"
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ui-ux-pro-max",
+  "version": "2.15.0",
+  "description": "UI/UX design intelligence and searchable design data"
+}

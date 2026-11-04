@@ -1,0 +1,12 @@
+{
+  "name": "superpowers-zh",
+  "version": "1.8.0",
+  "description": "Superpowers Chinese development workflows",
+  "author": {
+    "name": "jnMetaCode"
+  },
+  "homepage": "https://github.com/jnMetaCode/superpowers-zh",
+  "repository": "https://github.com/TreasureGooldove/personal-skills",
+  "skills": "./skills/",
+  "license": "MIT"
+}

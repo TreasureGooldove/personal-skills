@@ -1,0 +1,56 @@
+{
+  "interface": {
+    "displayName": "TreasureGooldove Personal Skills"
+  },
+  "plugins": [
+    {
+      "source": {
+        "source": "local",
+        "path": "./plugins/excalidraw-diagram"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools",
+      "name": "excalidraw-diagram"
+    },
+    {
+      "source": {
+        "source": "local",
+        "path": "./plugins/ui-ux-pro-max"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools",
+      "name": "ui-ux-pro-max"
+    },
+    {
+      "source": {
+        "source": "local",
+        "path": "./plugins/find-skills"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools",
+      "name": "find-skills"
+    },
+    {
+      "source": {
+        "source": "local",
+        "path": "./plugins/superpowers-zh"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools",
+      "name": "superpowers-zh"
+    }
+  ],
+  "name": "treasuregooldove-personal-skills"
+}

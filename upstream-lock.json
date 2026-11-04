@@ -1,0 +1,30 @@
+[
+  {
+    "name": "excalidraw-diagram",
+    "repository": "https://github.com/coleam00/excalidraw-diagram-skill",
+    "commit": "8646fcc9f74f38539c6cdb4c969723336a96ddcd",
+    "license": "Unspecified",
+    "packagedVersion": "1.0.0"
+  },
+  {
+    "name": "ui-ux-pro-max",
+    "repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "commit": "dd9a1b4cf9f67ca2e326f646d93e101b2778db30",
+    "license": "MIT",
+    "packagedVersion": "2.15.0"
+  },
+  {
+    "name": "find-skills",
+    "repository": "https://github.com/vercel-labs/skills",
+    "commit": "9197d919034d19010ae303cf96bf19ad087dd4be",
+    "license": "MIT",
+    "packagedVersion": "1.0.0"
+  },
+  {
+    "name": "superpowers-zh",
+    "repository": "https://github.com/jnMetaCode/superpowers-zh",
+    "commit": "020339d1410e51a9eca16d26f4eac4cfee166d8a",
+    "license": "MIT",
+    "packagedVersion": "1.8.0"
+  }
+]

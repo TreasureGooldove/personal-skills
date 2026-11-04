@@ -1,0 +1,12 @@
+{
+  "name": "ui-ux-pro-max",
+  "version": "2.15.0",
+  "description": "UI/UX design intelligence and searchable design data",
+  "author": {
+    "name": "nextlevelbuilder"
+  },
+  "homepage": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "repository": "https://github.com/TreasureGooldove/personal-skills",
+  "skills": "./skills/",
+  "license": "MIT"
+}

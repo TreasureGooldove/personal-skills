@@ -1,0 +1,32 @@
+{
+  "owner": {
+    "name": "TreasureGooldove"
+  },
+  "plugins": [
+    {
+      "description": "Create and visually verify Excalidraw diagrams",
+      "source": "./plugins/excalidraw-diagram",
+      "version": "1.0.0",
+      "name": "excalidraw-diagram"
+    },
+    {
+      "description": "UI/UX design intelligence and searchable design data",
+      "source": "./plugins/ui-ux-pro-max",
+      "version": "2.15.0",
+      "name": "ui-ux-pro-max"
+    },
+    {
+      "description": "Discover and install agent skills",
+      "source": "./plugins/find-skills",
+      "version": "1.0.0",
+      "name": "find-skills"
+    },
+    {
+      "description": "Superpowers Chinese development workflows",
+      "source": "./plugins/superpowers-zh",
+      "version": "1.8.0",
+      "name": "superpowers-zh"
+    }
+  ],
+  "name": "treasuregooldove-personal-skills"
+}
