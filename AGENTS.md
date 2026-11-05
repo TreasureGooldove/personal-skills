@@ -44,6 +44,15 @@
 - Excalidraw 用于确实有助于理解的流程图和架构图。
 - 简单问题直接处理，避免引入与任务规模不相称的流程和文档。
 
+## 新项目创建前的更新检查
+
+- 每次创建新项目、初始化项目仓库或生成应用脚手架之前，先使用 project-preflight 技能检查 personal-skills 集合及四个上游源仓库是否更新。
+- 从集合源码运行：python plugins/project-preflight/skills/project-preflight/scripts/check_updates.py；安装插件后使用实际技能目录下的脚本路径。
+- 向用户简要展示有更新的项目、新增提交数、主要变化及比较链接；全部确认无更新时简述即可。
+- 未知本地基线、网络或权限失败、历史分叉必须单独报告，不得误报无更新；检查失败时继续可进行的工作。
+- 仅检查不自动覆盖技能，升级依据用户授权执行；更新上游时同步维护根目录与 project-preflight/references/ 的 upstream-lock.json。
+- 本约定在加载本文件的会话生效；其他项目需安装并启用 project-preflight 技能，或在其用户级/项目级 AGENTS.md 中引用此规则。
+
 ## 实现标准
 
 - 优先采用清晰、直接、便于维护的实现。

@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "project-preflight",
+  "description": "创建新项目前检查技能仓库更新"
+}

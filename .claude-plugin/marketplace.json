@@ -26,6 +26,12 @@
       "source": "./plugins/superpowers-zh",
       "version": "1.8.0",
       "name": "superpowers-zh"
+    },
+    {
+      "name": "project-preflight",
+      "source": "./plugins/project-preflight",
+      "description": "新项目创建前检查个人技能集合及上游更新",
+      "version": "1.0.0"
     }
   ],
   "name": "treasuregooldove-personal-skills"

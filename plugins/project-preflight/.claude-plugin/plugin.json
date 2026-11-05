@@ -1,0 +1,9 @@
+{
+  "author": {
+    "name": "TreasureGooldove"
+  },
+  "skills": "./skills/",
+  "version": "1.0.0",
+  "description": "创建新项目前检查个人技能集合与上游更新并展示摘要",
+  "name": "project-preflight"
+}

@@ -50,6 +50,18 @@
       },
       "category": "Developer Tools",
       "name": "superpowers-zh"
+    },
+    {
+      "name": "project-preflight",
+      "source": {
+        "path": "./plugins/project-preflight",
+        "source": "local"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools"
     }
   ],
   "name": "treasuregooldove-personal-skills"
