@@ -17,7 +17,7 @@ description: 在创建新项目、初始化仓库、生成项目脚手架或开�
    已知当前安装集合的提交时，追加 --collection-base <提交SHA>。
    在集合源码仓库中运行会自动识别本地提交；安装缓存没有基线时明确报告“本地版本未知”。
 
-2. 检查 personal-skills 集合远端以及 references/upstream-lock.json 记录的四个上游。
+2. 检查 personal-skills 集合远端以及 references/upstream-lock.json 记录的五个上游。
    上游比较以当前打包提交为基线，不代表每个上游提交都会影响本技能。
    同步上游版本时，同时更新仓库根目录和本技能 references/ 内的锁文件。
 

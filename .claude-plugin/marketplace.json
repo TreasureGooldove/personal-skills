@@ -32,6 +32,12 @@
       "source": "./plugins/project-preflight",
       "description": "新项目创建前检查个人技能集合及上游更新",
       "version": "1.0.0"
+    },
+    {
+      "name": "write-notes-like-deepseek",
+      "source": "./plugins/write-notes-like-deepseek",
+      "description": "记录重要工程决策、备选方案和验证依据，附机械校验与归档",
+      "version": "0.1.0"
     }
   ],
   "name": "treasuregooldove-personal-skills"

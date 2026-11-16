@@ -552,7 +552,7 @@
 
 ## 十三、新项目创建前的更新检查
 
-每次创建新项目、初始化项目仓库或生成应用脚手架之前，必须先使用 `project-preflight` 技能检查 `personal-skills` 集合及四个上游源仓库是否更新。
+每次创建新项目、初始化项目仓库或生成应用脚手架之前，必须先使用 `project-preflight` 技能检查 `personal-skills` 集合及五个上游源仓库是否更新。
 
 ### 1. 检查方式
 
@@ -679,7 +679,7 @@ PR 标题概括整个 PR 的最终变更，不直接拼接多个提交标题。
 
 ### 1. 项目基本信息
 
-- 项目用途：`TreasureGooldove` 的个人技能与插件集合，整理自四个 GitHub 上游仓库。
+- 项目用途：`TreasureGooldove` 的个人技能与插件集合，整理自五个 GitHub 上游仓库。
 - 技术结构：Markdown 技能与文档、JSON 插件配置，以及上游附带的 Python、JavaScript 和 Shell 资源。
 - 发布方式：通过 GitHub 仓库分发。
 - 未经明确要求，不改变仓库可见性。
@@ -693,6 +693,8 @@ plugins/excalidraw-diagram
 plugins/ui-ux-pro-max
 plugins/find-skills
 plugins/superpowers-zh
+plugins/project-preflight
+plugins/write-notes-like-deepseek
 ```
 
 市场索引：

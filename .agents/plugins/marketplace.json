@@ -62,6 +62,18 @@
         "installation": "AVAILABLE"
       },
       "category": "Developer Tools"
+    },
+    {
+      "name": "write-notes-like-deepseek",
+      "source": {
+        "source": "local",
+        "path": "./plugins/write-notes-like-deepseek"
+      },
+      "policy": {
+        "authentication": "ON_INSTALL",
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools"
     }
   ],
   "name": "treasuregooldove-personal-skills"

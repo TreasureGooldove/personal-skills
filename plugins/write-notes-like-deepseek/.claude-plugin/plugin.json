@@ -1,0 +1,11 @@
+{
+  "name": "write-notes-like-deepseek",
+  "version": "0.1.0",
+  "description": "记录重要工程决策、技术取舍与验证依据",
+  "author": {
+    "name": "czm15053"
+  },
+  "homepage": "https://github.com/czm15053/write-notes-like-deepseek",
+  "repository": "https://github.com/czm15053/write-notes-like-deepseek",
+  "skills": "./skills/"
+}

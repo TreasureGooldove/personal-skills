@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "write-notes-like-deepseek",
+  "version": "0.1.0",
+  "description": "记录和维护工程决策笔记及其校验流程"
+}
